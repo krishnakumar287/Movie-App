@@ -62,5 +62,5 @@ For any questions or suggestions, reach out to me:
 
 GitHub: krishnakumar287
 
-
+[Live Demo]: https://krishnakumar287.github.io/Movie-App/
 
