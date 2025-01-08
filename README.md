@@ -14,7 +14,7 @@ A simple and elegant web application where users can search for movies and view 
 
 
 
-🚀 Live Demo
+🚀 [Live Demo]
 
 
 Explore the Movie App
